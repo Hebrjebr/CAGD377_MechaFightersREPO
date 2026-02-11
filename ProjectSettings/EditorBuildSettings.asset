@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/_scenes/IanPhurchpean_Development.unity
+    guid: f3431163bea2a2a49be25d7abe54e300
+  - enabled: 1
+    path: Assets/_scenes/JoshuaChavan_Development.unity
+    guid: 38874ca0680203a45922f4709baf34d2
+  - enabled: 1
+    path: Assets/_scenes/KonnerRooney_Development.unity
+    guid: 107fa4e923f753f45b874ebb71983494
+  - enabled: 1
+    path: Assets/_scenes/KonnerRooneyScenes/MainMenuTest_Rooney_Konner.unity
+    guid: 544c817f0519c2641b13aec92092cc42
+  - enabled: 1
+    path: Assets/_scenes/KonnerRooneyScenes/PLAY_Test.unity
+    guid: e83c932b1b387cc479a0bead0ad5ed51
+  - enabled: 1
+    path: Assets/_scenes/KonnerRooneyScenes/CONTROLS_Test.unity
+    guid: 278e95e4ac78d86459dd1484ea5f1e7a
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
